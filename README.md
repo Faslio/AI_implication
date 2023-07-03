@@ -1,21 +1,14 @@
 # Project Title
 
-Here is a brief description of what this project is about.
+These codes are used for analysing the Topic Modelling, Sentiment Analysis,Identifying Opinion leaders. The dataset is about the Artificial Intelligence tweets on Twitter.
 
-## Installation
+## Method
+**Topic Modelling**
+1. Latent Dirichlet Allocation (LDA)
+Using  LdaModel algorithm from the Gensim library
+2. Correlated Topic Model (CTM)
+Using CTMmodel method of tomotopy package from Python
 
-Describe the installation process here.
+**Sentiment Analysis**
+Using the Vader sentiment analysis tool from Natural Language Toolkit (NLTK) package
 
-## Usage
-
-Provide instructions on how to use the project.
-
-## Contributing
-
-Details on how others can contribute to this project.
-
-## License
-
-Add information about the license.
-
-The code is for analysing for the Artificial Intelligence tweets by using LDA CTM topic modelling and Sentiment analysis.
